@@ -1,3 +1,3 @@
 # gitLessons
-Git Lessons Pedro Moita
 
+Git Lessons Vasco Pinto Ferreira
