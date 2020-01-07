@@ -1,2 +1,2 @@
 # gitLessons
-Git Lessons Vasco
+Git Lessons Vasco Pinto Ferreira
