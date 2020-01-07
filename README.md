@@ -1,2 +1,2 @@
 # gitLessons
-Git Lessons
+Git Lessons Pedro Moita
